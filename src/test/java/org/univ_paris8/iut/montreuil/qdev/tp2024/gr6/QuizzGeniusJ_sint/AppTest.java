@@ -1,4 +1,4 @@
-package org.univ_paris8.iut.montreuil.qdev.tp2024.gr6.QuizzGeniusJ-sint;
+package org.univ_paris8.iut.montreuil.qdev.tp2024.gr6.QuizzGeniusJ_sint;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
